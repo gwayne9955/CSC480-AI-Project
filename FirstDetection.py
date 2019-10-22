@@ -6,7 +6,7 @@ inputs = os.path.join(execution_path, "image_inputs/")
 
 detector = ObjectDetection()
 detector.setModelTypeAsYOLOv3()
-detector.setModelPath( os.path.join(execution_path , "pretrained-yolov3.h5"))
+detector.setModelPath( os.path.join(execution_path , "CSC480-AI-Project/Strawberries/models/detection_model-ex-019--loss-0001.208.h5"))
 detector.loadModel()
 if not os.path.exists("image_outputs"):
     os.makedirs("image_outputs")
