@@ -13,7 +13,7 @@ def resizeImage(infile, output_dir, size):
     outfile = os.path.splitext(os.path.basename(infile))[0]
     extension = os.path.splitext(infile)[1]
 
-    if (extension == ".jpg"):
+    if (extension.lower() == ".jpg"):
         return
 
     if infile != outfile:

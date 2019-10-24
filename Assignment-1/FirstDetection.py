@@ -12,7 +12,7 @@ if not os.path.exists("image_outputs"):
     os.makedirs("image_outputs")
 for file in os.listdir(inputs):
     filename = os.fsdecode(file)
-    if filename.endswith(".JPG"):
+    if filename.lower().endswith(".jpg"):
         detections = detector.detectObjectsFromImage(input_image=os.path.join(inputs , filename), 
             output_image_path=os.path.join(execution_path , "image_outputs/{0}".format(os.path.splitext(filename)[0] + "_new" + os.path.splitext(filename)[1])))
         print("Printing Detections for" + filename)
