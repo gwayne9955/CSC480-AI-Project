@@ -9,4 +9,4 @@ Use `wget https://github.com/OlafenwaMoses/ImageAI/releases/download/essential-v
 
 [The best working model so far](https://drive.google.com/file/d/1RAwRUamLSlTo7KKhM-RGVVBmYPersWGd/view?usp=sharing)
 
-[Colab for ImageAI](https://colab.research.google.com/drive/1R6t5MfFc3JnhZB-UmTjWLbEetBZ22agg)
+[Colab for ImageAI](https://colab.research.google.com/drive/1zdtuZATk2WSfeMrJxgADYIlav4aqwUCm)
