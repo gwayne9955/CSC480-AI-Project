@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>image194.jpg</filename>
+	<path>/Users/jfisher/CSC480/asgn1/Strawberry Symptoms/Pictures of Berries (non-raw)/resized/image194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>35</ymin>
+			<xmax>31</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>51</ymin>
+			<xmax>147</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>
