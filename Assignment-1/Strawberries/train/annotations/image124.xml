@@ -1,13 +1,13 @@
 <annotation>
 	<folder>resized</folder>
-	<filename>image124.jpg</filename>
-	<path>/Users/jfisher/CSC480/asgn1/Strawberry Symptoms/Pictures of Berries (non-raw)/resized/image124.jpg</path>
+	<filename>DSC_0200.JPG</filename>
+	<path>C:\Users\bigjz\Documents\CSC480\resized\DSC_0200.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>256</width>
-		<height>192</height>
+		<height>170</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,34 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>116</xmin>
-			<ymin>121</ymin>
-			<xmax>123</xmax>
-			<ymax>130</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>red strawberry</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>123</xmin>
-			<ymin>120</ymin>
-			<xmax>131</xmax>
-			<ymax>132</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>green strawberry</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>67</xmin>
-			<ymin>105</ymin>
-			<xmax>75</xmax>
-			<ymax>113</ymax>
+			<xmin>95</xmin>
+			<ymin>25</ymin>
+			<xmax>170</xmax>
+			<ymax>146</ymax>
 		</bndbox>
 	</object>
 </annotation>
