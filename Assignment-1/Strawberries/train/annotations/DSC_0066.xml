@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>DSC_0066.JPG</filename>
+	<path>C:\Users\bigjz\Documents\CSC480\resized\DSC_0066.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>7</ymin>
+			<xmax>172</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
