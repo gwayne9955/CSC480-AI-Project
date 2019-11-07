@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
-	<filename>image69.JPG</filename>
-	<path>/Users/garrettwayne/Documents/Garrett/Senior/1st Quarter/CSC 480/Project/CSC480-AI-Project/Strawberries/train/images/image69.JPG</path>
+	<folder>resized</folder>
+	<filename>DSC_0130.JPG</filename>
+	<path>C:\Users\bigjz\Documents\CSC480\resized\DSC_0130.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>682</height>
+		<width>256</width>
+		<height>170</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>314</xmin>
-			<ymin>96</ymin>
-			<xmax>713</xmax>
-			<ymax>571</ymax>
+			<xmin>87</xmin>
+			<ymin>27</ymin>
+			<xmax>171</xmax>
+			<ymax>144</ymax>
 		</bndbox>
 	</object>
 </annotation>
