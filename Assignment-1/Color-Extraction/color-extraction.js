@@ -1,6 +1,7 @@
+const { resolve } = require('path');
 const ColorThief = require('colorthief');
 
-const img = resolve(process.cwd(), 'rainbow.png');
+const img = resolve(process.cwd(), '3F.jpg');
 
 ColorThief.getColor(img)
     .then(color => {
