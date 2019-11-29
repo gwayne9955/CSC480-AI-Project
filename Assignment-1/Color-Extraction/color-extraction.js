@@ -5,7 +5,7 @@ const img = resolve(process.cwd(), '3F.jpg');
 
 ColorThief.getColor(img)
     .then(color => {
-      console.log(color);
+      console.log("The primary color has RBG " + color);
       var red = color[0];
       var green = color[1];
       var blue = color[2];
