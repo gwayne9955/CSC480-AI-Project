@@ -1,6 +1,6 @@
 const ColorThief = require('colorthief');
 
-const img = resolve(process.cwd(), 'rainbow.png');
+const img = Promise.resolve(process.cwd(), 'rainbow.png');
 
 ColorThief.getColor(img)
     .then(color => { console.log(color) })
