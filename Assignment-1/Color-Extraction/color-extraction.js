@@ -11,7 +11,7 @@ ColorThief.getColor(img)
       var red = color[0];
       var green = color[1];
       var blue = color[2];
-      if (red > 105 && green < 70) {
+      if (red > 105 && green < 80) {
          console.log("The strawberry is ripe");
       }
       else {
